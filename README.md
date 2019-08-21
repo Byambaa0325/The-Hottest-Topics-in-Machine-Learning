@@ -1,2 +1,2 @@
 # The-Hottest-Topics-in-Machine-Learning
-a datacamp project
+a guided datacamp project
